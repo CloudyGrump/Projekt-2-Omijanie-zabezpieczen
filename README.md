@@ -1,1 +1,1 @@
-# projekt2 Omijanie zabezpieczeń
+# Projekt 2 Omijanie zabezpieczeń
